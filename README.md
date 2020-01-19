@@ -31,6 +31,6 @@ In a gameshow the host Monty Hall is playing a game with a participant (in follo
 But when the player knows that when the host is crawling on the floor and will always choice the highest numbering door in this case, 
 he/she can optimize the winning chances in a non switching scenario to 5/9 (~55,55%). 
 (But when the player switches it will still improve his/her chances to 2/3)<br>
-	* when the player choosed door 1 and the host opens door 2, the price must be behind door 3
-	* when the player choosed door 3 and the host opens door 1, the price must be behind door 2
+  * when the player choosed door 1 and the host opens door 2, the price must be behind door 3
+  * when the player choosed door 3 and the host opens door 1, the price must be behind door 2
 
